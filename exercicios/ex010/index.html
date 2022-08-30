@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem Dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho de seu navegador.</p>
+    <picture> <!-- a ordem importa!-->
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem Flexível">
+    </picture>
+    <h1>Reproduzindo Áudio </h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+    <audio 
+    src="midia/spanish-moss.mp3" controls>
+    </audio>
+    <h1>Inserindo Vídeos Hospedados Localmente</h1>
+    <p>Este vídeo está hospedado no meu próprio servidor.</p>
+    <video 
+    src="midia/meu-video.mp4" controls width="560" poster="">
+    </video>
+    <h1>Inserindo Vídeos Externos</h1>
+    <h2>Vídeos do YouTube</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/m566CZYUL3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h2>Vídeos do Vimeo</h2>
+    <iframe src="https://player.vimeo.com/video/707012696?h=4ecdb8a7c4" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>

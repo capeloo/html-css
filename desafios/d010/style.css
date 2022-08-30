@@ -1,0 +1,156 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #5CC8FF;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-image: linear-gradient(#5CC8FF, #096B72,#0D0628);
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.463);
+}
+
+header > p{
+    color: rgba(255, 255, 255, 0.817);
+}
+
+nav{
+    text-align: left;
+}
+
+nav > a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+nav > a:hover{
+    color: #EC0B43;
+}
+
+main{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.463);
+}
+
+h1{
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+h1#title{
+    color: #096B72;
+    margin: 0%;
+    padding: 10px;
+    font-size: 2em;
+}
+
+h2.title2{
+    color: #096B72;
+    margin: 10px 20px 10px 20px;
+    padding: 0 16px;
+    font-size: 1.5em;
+    background-image: linear-gradient(to right,#5CC8FF, white);
+}
+
+h3#title3{
+    color: white;
+    margin: 0%;
+    padding: 10px;
+    font-size: 1.2em;
+    background-color: #EC0B43;
+    border-radius: 10px 10px 0 0;
+}
+
+p.text{
+    text-indent: 2em;
+    margin: 0%;
+    padding: 10px 20px;
+    text-align: justify;
+}
+
+p.text2{
+    text-indent: 2em;
+    margin: 0%;
+    padding: 16px 20px;
+    text-align: justify;
+}
+
+p.text3{
+    background-color: #0D0628;
+    text-align: center;
+    color: white;
+    margin: 10px 0px 0px 0px;
+    padding: 5px;
+    
+}
+
+span{
+    color: #EC0B43;
+}
+
+.img{
+    max-width: 750px;
+    margin: 10px 25px 10px 25px;
+}
+
+.img2{
+    max-width: 750px;
+    display: block;
+    margin: 0px  auto;
+    
+}
+
+div.video{
+    background-color: #0D0628;
+    max-width: 800px;
+    max-height: max-content;
+    padding: 16px;
+    text-align: center;
+}
+
+div#content{
+    margin:auto;
+    width: 700px;
+    max-height: max-content;
+    background-color: #bbe8ff;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.463);
+    border-radius: 10px;
+}
+
+div#flinks{
+    display: flex;
+    text-align: left;
+}
+
+ul{
+    margin: 10px 50px 10px 50px;
+}
+
+footer{
+    background-color: white;
+    max-width: 766px;
+    margin: auto;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.463);
+    padding: 16px;
+    border-radius: 0 0 10px 10px;
+}
+
+a.a2{
+    text-decoration: none;
+    color: black;
+    background-color: #5CC8FF;
+}
+
+a.a2:hover{
+    text-decoration: underline;
+}
