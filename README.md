@@ -1,2 +1,14 @@
-# html-css
- Curso de HTML5 e CSS3 do Curso em Vídeo com 5 módulos totalizando 200h
+# Curso em Vídeo - HTML-CSS
+
+Repositório para organização de arquivos e criação de projetos relacionados ao curso.
+
+## Desafios e Projetos do Curso
+
+* Desafio 1 - [Desafio das Mensagens]
+
+## Links Úteis
+
+* [Curso em Vídeo](https://www.cursoemvideo.com/)
+* [Playlist do Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+* Professor: [Gustavo Guanabara](https://github.com/gustavoguanabara) 🖖🏻
+* [Repositório do Curso](https://github.com/gustavoguanabara/html-css)
