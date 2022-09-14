@@ -4,7 +4,7 @@ Repositório para organização de arquivos e criação de projetos relacionados
 
 ## Desafios e Projetos do Curso
 
-* Desafio 1 - [Desafio das Mensagens]
+* Desafio 1 - [Desafio das Mensagens](https://capeloo.github.io/html-css/desafios/d001/)
 
 ## Links Úteis
 
