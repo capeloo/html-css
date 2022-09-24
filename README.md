@@ -14,7 +14,7 @@ Repositório para organização de arquivos e criação de projetos relacionados
 * Desafio 8 - [Desafio da Navegação](https://capeloo.github.io/html-css/desafios/d008/)
 * Desafio 9 - [Vídeos Legais para Assistir](https://capeloo.github.io/html-css/desafios/d009/)
 * Desafio 10 - [Projeto Android](https://capeloo.github.io/html-css/desafios/d010/)
-* Desafio 11 - 
+* Desafio 11 - [Desafio do Astronauta](https://capeloo.github.io/html-css/desafios/d011/)
 * Desafio 12 - [Cordel Moderno](https://capeloo.github.io/html-css/desafios/d012/)
 * Desafio 13 -
 * Desafio 14 - 
