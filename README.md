@@ -15,10 +15,10 @@ Repositório para organização de arquivos e criação de projetos relacionados
 * Desafio 9 - [Vídeos Legais para Assistir](https://capeloo.github.io/html-css/desafios/d009/)
 * Desafio 10 - [Projeto Android](https://capeloo.github.io/html-css/desafios/d010/)
 * Desafio 11 - [Desafio do Astronauta](https://capeloo.github.io/html-css/desafios/d011/)
-* Desafio 12 - [Cordel Moderno](https://capeloo.github.io/html-css/desafios/d012/)
+* Desafio 12 - [Projeto Cordel](https://capeloo.github.io/html-css/desafios/d012/)
 * Desafio 13 - Expansão de Tabelas - [Parte 1](https://capeloo.github.io/html-css/desafios/d013/tabela01.html) / [Parte 2](https://capeloo.github.io/html-css/desafios/d013/tabela02.html)
 * Desafio 14 - [Tabela de Médias Escolares](https://capeloo.github.io/html-css/desafios/d014/index.html)
-* Desafio 15 - [Web Redes Sociais](https://html-fzarumckj-capeloo.vercel.app/)
+* Desafio 15 - [Projeto Redes Sociais](https://html-fzarumckj-capeloo.vercel.app/)
 
 ## Links Úteis
 
