@@ -69,3 +69,53 @@ a {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.521);
 }
+
+form > div.campo {
+    margin: 5px 0px;
+    position: relative;
+    transform: translate(10%, 10%);
+}
+
+div.campo > label {
+    display: none;
+}
+
+div.campo > i {
+    transform: translateY(20%);
+}
+
+form > input[type=submit] {
+    position: relative;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%, 40%);
+
+    display: block;
+    font-size: 1em;
+    width: 55%;
+    border: none;
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: #1590F7;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.47);
+}
+
+form > input[type=submit]:hover {
+    background-color: #6DE7F2;
+    color: black;
+}
+
+form > a.botao {
+    position: relative;
+    transform: translate(0%, 80%);
+
+    display: block;
+    text-align: center;
+    font-size: 1em;
+}
+
+form > a.botao:hover {
+    color: black;
+}

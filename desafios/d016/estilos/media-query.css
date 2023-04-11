@@ -9,6 +9,15 @@
     section#login {
         width: 50vw;
     }   
+
+    form > input[type=submit] {
+        width: 35%;
+    }
+
+    form > div.campo {
+        position: relative;
+        transform: translate(25%, 10%);
+    }
 }
 
 /* Desktop */
@@ -30,5 +39,17 @@
     section#login > div#formulario {
         float: left;
         width: 40% ;
+    }
+
+    form > div.campo {
+        position: relative;
+        transform: translate(5%, 10%);
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    form > div.campo {
+        position: relative;
+        transform: translate(17%, 10%);
     }
 }
